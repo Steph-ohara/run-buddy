@@ -242,10 +242,12 @@ section {
   .contact {
     text-align: center;
     background: #024e76;
-  }  
+  }
 
   .contact h2 {
     color: #fce138;
+    text-align: center;
+    border-bottom: #39a6b2 solid;
   }
 
   .contact-info iframe {
